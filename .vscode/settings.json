@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "libyuv.h": "c",
+        "compare.h": "c",
+        "convert.h": "c",
+        "convert_argb.h": "c"
+    }
+}
